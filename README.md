@@ -26,6 +26,7 @@ The key features of MSDGAD include:
 - A unified framework applicable to both financial and communication networks
 
 An overview of the framework is illustrated in Fig. 1 of the paper.
+![](https://github.com/GreatL/MSDGAD/raw/main/MSDGAD.png)
 ---
 
 ## Environment Setup
